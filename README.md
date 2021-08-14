@@ -1,6 +1,6 @@
 # robofriends
-Tutorial for React
-To run the project:
+a basic react app
+
 
 1. Clone this repo
 2. Run `npm install`
